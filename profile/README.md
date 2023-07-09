@@ -12,38 +12,6 @@ Este grupo nasceu da vontade de continuar desenvolvendo em um sistema de gerenci
 ### Tech stack 💻
 
 - Java
-
-## Time
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/regis-amaral">
-        <img src="https://avatars.githubusercontent.com/u/118540708?v=4" width="100px;" alt="Foto de Regis Amaral"/><br>
-        <sub>
-          <b>Regis Amaral</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/tiagospeckart">
-        <img src="https://avatars.githubusercontent.com/u/75458110?v=4" width="100px;" alt="Foto de Tiago Martins no GitHub"/><br>
-        <sub>
-          <b>Tiago M. Speckart</b>
-        </sub>
-      </a>
-    </td>
-     <td align="center">
-      <a href="https://github.com/jonasesoft">
-        <img src="https://avatars.githubusercontent.com/u/84279041?v=4" width="100px;" alt="Foto de Jonas Maçaneiro"/><br>
-        <sub>
-          <b>Jonas Maçaneiro</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
 <!--
 
 **Here are some ideas to get you started:**
