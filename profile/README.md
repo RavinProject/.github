@@ -8,7 +8,7 @@ Este grupo nasceu da vontade de continuar desenvolvendo em um sistema de gerenci
 
 ### Metodologia 📋
 
-- Planjamento de arquitetura de projeto
+- Planejamento de arquitetura de projeto
 - Diagramação UML.
 - Gerenciamento de projeto utilizando Github Projects.
 - Desenvolvimento iterativo
